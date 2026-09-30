@@ -1,0 +1,344 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 2
+/Kids [ 4 0 R 10 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+/Outlines 12 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 6 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 5894
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 48.51969 780.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 13 Tf 16 TL 176.8836 0 Td (Customer Journey Map) Tj T* -176.8836 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.69291 672.2047 cm
+q
+0 0 0 rg
+BT /F2 8.5 Tf 12 TL ET
+BT 1 0 0 1 6 81.5 Tm (Date) Tj T* ET
+BT /F1 8.5 Tf 12 TL ET
+BT 1 0 0 1 161.9055 81.5 Tm (29 September 2026) Tj T* ET
+BT /F2 8.5 Tf 12 TL ET
+BT 1 0 0 1 6 57.5 Tm (Team ID) Tj T* ET
+BT /F1 8.5 Tf 12 TL ET
+BT 1 0 0 1 161.9055 57.5 Tm (SWTID-2026-2905) Tj T* ET
+BT /F2 8.5 Tf 12 TL ET
+BT 1 0 0 1 6 33.5 Tm (Project Name) Tj T* ET
+BT /F1 8.5 Tf 12 TL ET
+BT 1 0 0 1 161.9055 33.5 Tm (LegalEase: AI-Powered Legal Document Generator) Tj T* ET
+BT /F2 8.5 Tf 12 TL ET
+BT 1 0 0 1 6 9.5 Tm (Maximum Marks) Tj T* ET
+BT /F1 8.5 Tf 12 TL ET
+BT 1 0 0 1 161.9055 9.5 Tm (2 Marks) Tj T* ET
+q
+1 J
+1 j
+0 0 0 RG
+.7 w
+n 0 96 m 481.8898 96 l S
+n 0 0 m 481.8898 0 l S
+n 0 0 m 0 96 l S
+n 481.8898 0 m 481.8898 96 l S
+n 0 72 m 481.8898 72 l S
+n 0 48 m 481.8898 48 l S
+n 0 24 m 481.8898 24 l S
+n 155.9055 0 m 155.9055 96 l S
+Q
+Q
+Q
+q
+1 0 0 1 48.51969 653.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 9.5 Tf 12 TL (Customer Journey Map) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 626.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13 Tm /F1 8 Tf 10.5 TL -0.081736 Tw (Map out the customer's experience stage-by-stage, capturing their actions, touchpoints, thoughts, and feelings, along with process ownership) Tj T* 0 Tw (and improvement opportunities at each stage.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 619.2047 cm
+Q
+q
+1 0 0 1 56.69291 134.4803 cm
+q
+.858824 .890196 .94902 rg
+n 0 484.7244 481.8898 -42.51969 re f*
+1 1 1 rg
+n 0 442.2047 96.37795 -442.2047 re f*
+.894118 .92549 .972549 rg
+n 96.37795 442.2047 385.5118 -107.7165 re f*
+.898039 .945098 .862745 rg
+n 96.37795 226.7717 385.5118 -113.3858 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 5 454.4646 cm
+q
+BT 1 0 0 1 0 10.9 Tm 28.39258 0 Td 9 TL /F2 7.1 Tf 0 0 0 rg (Phase of) Tj  T* .986896 0 Td (Journey) Tj T* -29.37948 0 Td ET
+Q
+Q
+q
+1 0 0 1 101.378 454.4646 cm
+q
+BT 1 0 0 1 0 10.9 Tm 46.15218 0 Td 9 TL /F2 7.1 Tf 0 0 0 rg (Stage 1) Tj  T* -2.367852 0 Td (Discover) Tj T* -43.78433 0 Td ET
+Q
+Q
+q
+1 0 0 1 228.937 454.4646 cm
+q
+BT 1 0 0 1 0 10.9 Tm 46.15218 0 Td 9 TL /F2 7.1 Tf 0 0 0 rg (Stage 2) Tj  T* 1.579748 0 Td (Create) Tj T* -47.73193 0 Td ET
+Q
+Q
+q
+1 0 0 1 356.4961 454.4646 cm
+q
+BT 1 0 0 1 0 10.9 Tm 47.5695 0 Td 9 TL /F2 7.1 Tf 0 0 0 rg (Stage 3) Tj  T* -21.10475 0 Td (Review & Download) Tj T* -26.46475 0 Td ET
+Q
+Q
+q
+1 0 0 1 5 374.8465 cm
+q
+BT 1 0 0 1 0 19.9 Tm 9 TL /F2 7.1 Tf 0 0 0 rg (Actions) Tj  T* /F3 7.1 Tf (What does the) Tj  T* (customer do?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 101.378 370.3465 cm
+q
+BT 1 0 0 1 0 28.9 Tm 9 TL /F1 7.1 Tf 0 0 0 rg (\177 Identifies the legal document) Tj T* (needed.) Tj  T* (\177 Looks for an easy drafting solution.) Tj  T* (\177 Opens LegalEase.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 228.937 374.8465 cm
+q
+BT 1 0 0 1 0 19.9 Tm 9 TL /F1 7.1 Tf 0 0 0 rg (\177 Selects document type.) Tj  T* (\177 Enters required details.) Tj  T* (\177 Submits the form for generation.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 356.4961 374.8465 cm
+q
+BT 1 0 0 1 0 19.9 Tm 9 TL /F1 7.1 Tf 0 0 0 rg (\177 Reads the generated draft.) Tj  T* (\177 Edits details if needed.) Tj  T* (\177 Downloads the PDF.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 267.1299 cm
+q
+BT 1 0 0 1 0 19.9 Tm 9 TL /F2 7.1 Tf 0 0 0 rg (Touchpoint) Tj  T* /F3 7.1 Tf (What part of the service) Tj T* (do they interact with?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 101.378 267.1299 cm
+q
+BT 1 0 0 1 0 19.9 Tm 9 TL /F1 7.1 Tf 0 0 0 rg (\177 Website / app home page.) Tj  T* (\177 Document type menu.) Tj  T* (\177 Project information.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 228.937 267.1299 cm
+q
+BT 1 0 0 1 0 19.9 Tm 9 TL /F1 7.1 Tf 0 0 0 rg (\177 Input form.) Tj  T* (\177 Generate button.) Tj  T* (\177 AI processing interface.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 356.4961 267.1299 cm
+q
+BT 1 0 0 1 0 19.9 Tm 9 TL /F1 7.1 Tf 0 0 0 rg (\177 Document preview.) Tj  T* (\177 Edit controls.) Tj  T* (\177 PDF download button.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 152.0787 cm
+q
+BT 1 0 0 1 0 28.9 Tm 9 TL /F2 7.1 Tf 0 0 0 rg (Customer) Tj  T* (Thought) Tj  T* /F3 7.1 Tf (What is the customer) Tj T* (thinking?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 101.378 156.5787 cm
+q
+BT 1 0 0 1 0 19.9 Tm 9 TL /F1 7.1 Tf 0 0 0 rg (\177 Can this help me?) Tj  T* (\177 Is it simple to use?) Tj  T* (\177 Which document should I choose?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 228.937 156.5787 cm
+q
+BT 1 0 0 1 0 19.9 Tm 9 TL /F1 7.1 Tf 0 0 0 rg (\177 Did I enter everything correctly?) Tj  T* (\177 Will the AI create a useful draft?) Tj  T* (\177 How long will it take?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 356.4961 156.5787 cm
+q
+BT 1 0 0 1 0 19.9 Tm 9 TL /F1 7.1 Tf 0 0 0 rg (\177 Does this contain my details?) Tj  T* (\177 Can I correct mistakes?) Tj  T* (\177 Is the PDF ready to use?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 43.19291 cm
+q
+BT 1 0 0 1 0 19.9 Tm 9 TL /F2 7.1 Tf 0 0 0 rg (Customer) Tj  T* (Feeling) Tj  T* /F3 7.1 Tf (What is the feeling?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 101.378 43.19291 cm
+q
+BT 1 0 0 1 0 19.9 Tm 9 TL /F1 7.1 Tf 0 0 0 rg (\177 Curious.) Tj  T* (\177 Hopeful.) Tj  T* (\177 Slightly uncertain.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 228.937 38.69291 cm
+q
+BT 1 0 0 1 0 28.9 Tm 9 TL /F1 7.1 Tf 0 0 0 rg (\177 Focused.) Tj  T* (\177 Interested.) Tj  T* (\177 Relieved when generation) Tj T* (succeeds.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 356.4961 43.19291 cm
+q
+BT 1 0 0 1 0 19.9 Tm 9 TL /F1 7.1 Tf 0 0 0 rg (\177 Confident after review.) Tj  T* (\177 Satisfied with the output.) Tj  T* (\177 Cautious about legal use.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.6 w
+n 0 484.7244 m 481.8898 484.7244 l S
+n 0 0 m 481.8898 0 l S
+n 0 0 m 0 484.7244 l S
+n 481.8898 0 m 481.8898 484.7244 l S
+n 0 442.2047 m 481.8898 442.2047 l S
+n 0 334.4882 m 481.8898 334.4882 l S
+n 0 226.7717 m 481.8898 226.7717 l S
+n 0 113.3858 m 481.8898 113.3858 l S
+n 96.37795 0 m 96.37795 484.7244 l S
+n 223.937 0 m 223.937 484.7244 l S
+n 351.4961 0 m 351.4961 484.7244 l S
+Q
+Q
+Q
+ 
+
+endstream
+endobj
+6 0 obj
+<<
+/F1 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/Contents 11 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 6 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+11 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1205
+>>
+stream
+GauHJ9p=<i%))O>i7)bq/6C^N]l_[\RjLiW8QVHhEoBWPbsW`jP$5p+^7]#YQG)%KPF8RcD+b#ILW9Wb5'V2F_e7X(r*7&1N=UI<71F^a+t-d8o4%B,jW?%KN5^7;jH*sp$bRl65?]C(IuY71d6a?X08b.$?W>r20%0De!.O-@Hc)[=Yl:IX<jembQ0Pcq4oE,XGTR%p][a#MA)PU,U,H6'_0>CGl]eik'NUn&*f:J)4FsQp?A/%n>t<+Y_NI%&$%.uC/Bb@31Wr/[#NsujZ]`TeMc^MqPd*G6>tn*O6N(FPV6HCZo*3Wp$d'(fU6#O](dGg$n$1ZqPu%=Rb[2!)6,SembPV,_SBTT7D\WN[6A"#;1rq1Dm^Fl79f-/FieJ\8A)\dW?IB_KBjrGT8":q<#KZ5_\Db\RD@d09ZjtDg_X62^C`hIlLiSfYH2N0\)^`ZcD>BMARJm3,S\MC9!a3VB+J&`1*tS?KlfX'&S(^0M-0u12gM(ek_hj#NI"PdGmRd=)]I6puo.T(9pX>@aoclf"b.^;Y_<sBAJDBM-WbM?Q0.R[<jg&?:(8Ef[qd*5--0\FIVABu6-,L\R9&o:,"Pl0).>G:n4:%JbE%j[FK281@GG;pS=ppQpZ_)jUBi3Kp7.t1pIQK+kP=l-2TN#(s4(5TS(6+r4Ts;2/"Z@+No7dme6HSiK?3iU>/N-nj2h7O29@:8*`,U']2h\a27;<Xo%bt1BQaWe4U!gT^ZQm:75;rDZ.<-)dGV",nNB$ne2O;D=BtP7l"4G'q"=k+qgmmQsXK(4GY;ZQ=gcC@I=/C)G;>_X2gF^qZV`*?<-U#m%*;1X,*PEI.KLXMA?&<sc1jdkl;9friUX`*I@dtV!?IAe.6OW_]`JPtG)[8eLGV&JsBTJouHITat@,d_0HAfi#RIQ-e^BC&rdtu3=BJf73FKBa(B"hE&EFW`3!,"+F/8`77K^$3H=5KJsB7<X4_K_Z_%iU+H`kq(.I0J,uSA(q'``&ANQ3-rShAE+KLR6GFc.;kRS<];u@(V/F)G&%c1_*eZ,1Q]Oae:>sF!,bq\?;LbFpk]Y/Wa/4(%m#Pgp+U7$?tiZ$IkWCW2%U_NQm&8),t4KHE)1pl)Dl!;PG,s>jocR4%%99Fjm<Ocn$8]:YHd]kG_BECg9nXR2@?;Zs#=[J]$VHq:,n$`\M_gTr+-pF&Y'!rW/,hU4*~>
+endstream
+endobj
+12 0 obj
+<<
+>>
+endobj
+xref
+0 13
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000120 00000 n 
+0000000186 00000 n 
+0000000385 00000 n 
+0000006331 00000 n 
+0000006382 00000 n 
+0000006489 00000 n 
+0000006601 00000 n 
+0000006720 00000 n 
+0000006921 00000 n 
+0000008219 00000 n 
+trailer
+<<
+/Size 13
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+8241
+%%EOF
